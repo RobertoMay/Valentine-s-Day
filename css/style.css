@@ -85,7 +85,6 @@ svg path#heart {
 .btn {
     display: block;
     margin: 20px auto;
-    /* Centra el botón horizontalmente */
     padding: 10px 20px;
     background-color: #ff9999;
     color: white;
@@ -98,5 +97,4 @@ svg path#heart {
 
 .btn:hover {
     background-color: #e57373;
-    /* Cambia el color de fondo al pasar el ratón sobre el botón */
 }
